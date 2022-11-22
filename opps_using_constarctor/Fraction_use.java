@@ -19,6 +19,7 @@ public class Fraction_use {
 	   f4.print();
 	   f4.addition(f1, f2);
 	   f4.print();
+	   System.out.println(" thank you");
 	   
 	}
 
